@@ -1,12 +1,37 @@
-# React + Vite
+📱 Text to QR Code Generator
+A simple and responsive web app built using React.js to convert text into a QR Code using the qrcode library.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Features
+🔤 Convert any custom text into a QR Code
 
-Currently, two official plugins are available:
+⚡ Instant QR generation on button click
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🖼️ Displays QR image (Base64)
 
-## Expanding the ESLint configuration
+🎨 Minimal, clean, and responsive UI
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🚀 Getting Started
+Clone the Repo
+bash
+Copy
+Edit
+git clone https://github.com/Vishnureddy630/text-to-qrcode-generator.git
+cd text-to-qrcode-generator
+Install Dependencies
+nginx
+Copy
+Edit
+npm install
+Start the App
+arduino
+Copy
+Edit
+npm run dev
+Make sure you have Node.js and npm installed.
+
+🛠️ Built With
+React.js
+
+JavaScript
+
+qrcode (npm package)
